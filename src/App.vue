@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
     <h1>{{ haha }}</h1>
-    <p>你看看有没有触发17</p>
+    <p>大家卡卡你看看看啊啊19</p>
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
 </template>
